@@ -1,2 +1,2 @@
 # staticpage
-HTML static page por DevOps labs
+HTML semi-static page por DevOps labs
