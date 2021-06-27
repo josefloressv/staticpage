@@ -17,7 +17,7 @@ find /var/www -type f -exec chmod 0664 {} \;
 echo "<?php phpinfo(); ?>" > /var/www/html/phpinfo.php
 ```
 
-#Ubuntu
+# Ubuntu
 ```bash
 #!/bin/bash
 apt update
